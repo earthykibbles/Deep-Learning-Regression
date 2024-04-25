@@ -9,3 +9,10 @@ These include
 - BioNTech
 
 The analysis also incorporates deep learning techniques to test their efficiency and effectiveness on regression.
+
+## Tools and Libraries Used
+
+- C++ 17
+- Visual Studio
+- Gnuplot
+

@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="matrix\matrix.h">
+    <ClInclude Include="misc\matrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="data\csv.h">
